@@ -1,0 +1,82 @@
+TIME,DATE,HOME TEAM,AWAY TEAM,HOME PER,DRAW PER,AWAY PER,OVER 2.5,UNDER 2.5,BTS,OTS,NAME
+19:45,2025-10-14,Portugal,Hungary,75,17,8,77,23,53,47,STA
+01:30,2025-10-14,Fortaleza FC,Chico,56,31,13,46,54,43,57,STA
+19:45,2025-10-14,Spain,Bulgaria,82,13,5,83,17,39,61,STA
+19:45,2025-10-14,Turkey,Georgia,60,22,18,68,32,51,49,STA
+19:45,2025-10-14,Italy,Israel,66,17,17,79,21,48,52,STA
+17:00,2025-10-14,Estonia,Moldova,43,28,29,45,55,45,55,STA
+19:45,2025-10-14,Latvia,England,15,20,65,59,41,38,62,STA
+19:45,2025-10-14,Andorra,Serbia,15,24,61,47,53,28,72,STA
+23:30,2025-10-14,Chapecoense,Botafogo SP,61,24,15,54,46,44,56,STA
+23:30,2025-10-14,Paysandu,Remo,26,35,39,42,58,58,42,STA
+01:30,2025-10-14,CRB,Ferroviaria,55,22,23,52,48,47,53,STA
+00:00,2025-10-14,San Luis,Deportes Recoleta,39,35,26,47,53,52,48,STA
+17:00,2025-10-14,Algeria,Uganda,51,27,22,65,35,52,48,STA
+17:00,2025-10-14,Guinea,Botswana,51,31,18,42,58,38,62,STA
+17:00,2025-10-14,Somalia,Mozambique,15,20,65,53,47,33,67,STA
+17:00,2025-10-14,Nigeria,Benin,55,28,17,53,47,40,60,STA
+17:00,2025-10-14,South Africa,Rwanda,67,23,10,37,63,26,74,STA
+15:00,2025-10-14,India,Singapore,31,26,43,55,45,44,56,STA
+13:00,2025-10-14,Hong Kong,Bangladesh,55,26,19,48,52,34,66,STA
+20:00,2025-10-14,Senegal,Mauritania,68,26,6,49,51,25,75,STA
+20:00,2025-10-14,Congo DR,Sudan,66,20,14,48,52,33,67,STA
+20:00,2025-10-14,Morocco,Congo,83,12,5,64,36,29,71,STA
+18:00,2025-10-14,Qatar,United Arab Emirates,55,24,21,58,42,60,40,STA
+17:00,2025-10-14,Romania (u21),Cyprus (u21),62,21,17,60,40,36,64,STA
+17:30,2025-10-14,Spain (u21),Finland (u21),75,17,8,68,32,50,50,STA
+17:00,2025-10-14,Kosovo (u21),San Marino (u21),72,17,11,70,30,20,80,STA
+18:00,2025-10-14,Gibraltar (u21),Portugal (u21),15,10,75,70,30,33,67,STA
+17:00,2025-10-14,Bulgaria (u21),Czech Republic (u21),36,22,42,57,43,50,50,STA
+16:00,2025-10-14,Azerbaijan (u21),Scotland (u21),22,24,54,49,51,44,56,STA
+19:45,2025-10-14,Hartlepool,Gainsborough,49,27,24,46,54,52,48,STA
+19:45,2025-10-14,Chester,Morecambe,50,35,15,65,35,71,29,STA
+19:45,2025-10-14,St. Albans,Banbury United,40,36,24,52,48,52,48,STA
+19:45,2025-10-14,Truro City,AFC Totton,48,22,30,55,45,47,53,STA
+19:45,2025-10-14,Brackley Town,Woking,53,26,21,45,55,48,52,STA
+14:00,2025-10-14,Malaysia,Laos,83,12,5,73,27,34,66,STA
+13:30,2025-10-14,Nepal,Vietnam,15,14,71,64,36,43,57,STA
+16:00,2025-10-14,Afghanistan,Pakistan,50,30,20,41,59,33,67,STA
+11:30,2025-10-14,Myanmar,Syria,15,20,65,59,41,54,46,STA
+11:30,2025-10-14,Chinese Taipei,Thailand,15,14,71,73,27,53,47,STA
+17:00,2025-10-14,Austria (u21),Wales (u21),72,19,9,62,38,54,46,STA
+19:00,2025-10-14,Belgium (u21),Denmark (u21),42,30,28,50,50,56,44,STA
+17:00,2025-10-14,Slovenia (u21),Bosnia and Herzegovina (u21),60,23,17,48,52,34,66,STA
+18:00,2025-10-14,Malta (u21),Georgia (u21),15,17,68,65,35,48,52,STA
+17:30,2025-10-14,Northern Ireland (u21),Germany (u21),15,16,69,68,32,48,52,STA
+15:00,2025-10-14,Latvia (u21),Greece (u21),21,23,56,50,50,46,54,STA
+17:15,2025-10-14,Italy (u21),Armenia (u21),81,14,5,69,31,36,64,STA
+17:00,2025-10-14,Sweden (u21),Poland (u21),48,23,29,71,29,59,41,STA
+17:00,2025-10-14,Montenegro (u21),North Macedonia (U21),33,22,45,52,48,49,51,STA
+17:00,2025-10-14,Hungary (u21),Turkey (u21),33,28,39,49,51,57,43,STA
+17:00,2025-10-14,Croatia (u21),Ukraine (u21),42,26,32,54,46,56,44,STA
+16:00,2025-10-14,Iceland (u21),Luxembourg (u21),67,17,16,67,33,49,51,STA
+18:00,2025-10-14,Faroe Islands (u21),Switzerland (u21),15,18,67,63,37,52,48,STA
+17:00,2025-10-14,Slovakia (u21),Moldova (u21),61,18,21,70,30,40,60,STA
+16:00,2025-10-14,Kosovo (u19),Armenia (u19),47,18,35,60,40,38,62,STA
+19:45,2025-10-14,Basingstoke,Chertsey Town,38,30,32,56,44,57,43,STA
+19:45,2025-10-14,Walton And Hersham,Havant and Waterlooville,48,32,20,60,40,66,34,STA
+19:45,2025-10-14,Uxbridge,Hungerford Town,53,24,23,71,29,65,35,STA
+19:45,2025-10-14,Poole Town,Dorchester,51,29,20,56,44,52,48,STA
+19:45,2025-10-14,Plymouth Parkway,Taunton Town,31,29,40,70,30,63,37,STA
+19:45,2025-10-14,Berkhamsted,Evesham United,38,32,30,62,38,61,39,STA
+19:30,2025-10-14,Wimborne Town,Yate Town,54,26,20,65,35,60,40,STA
+19:45,2025-10-14,Cray Valley Paper Mills,Chatham Town,25,31,44,64,36,57,43,STA
+19:45,2025-10-14,Billericay,Cheshunt FC,51,21,28,64,36,57,43,STA
+19:45,2025-10-14,Dartford,Whitehawk,47,28,25,58,42,63,37,STA
+19:45,2025-10-14,St. Albans,Potters Bar Town,50,28,22,50,50,57,43,STA
+19:45,2025-10-14,Ramsgate,Welling,51,26,23,65,35,69,31,STA
+19:45,2025-10-14,Ashton United,Hebburn Town,45,27,28,60,40,64,36,STA
+19:45,2025-10-14,Whitby,Hednesford Town,32,31,37,47,53,44,56,STA
+19:45,2025-10-14,Morpeth Town AFC,Cleethorpes Town,28,33,39,53,47,59,41,STA
+19:45,2025-10-14,Stratford,Worcester,41,32,27,57,43,53,47,STA
+19:45,2025-10-14,Royston Town,Leiston FC,32,34,34,55,45,61,39,STA
+19:45,2025-10-14,Bury Town,St Ives,36,32,32,53,47,55,45,STA
+19:45,2025-10-14,Bishops Stortford,Spalding United,36,25,39,62,38,52,48,STA
+19:45,2025-10-14,Alvechurch,Quorn,47,27,26,63,37,60,40,STA
+14:00,2025-10-14,Slovan Bratislava B,MSK Povazska Bystrica,40,34,26,46,54,60,40,STA
+18:00,2025-10-14,Yemen,Brunei,79,14,7,60,40,20,80,STA
+17:00,2025-10-14,Bhutan,Lebanon,15,15,70,55,45,32,68,STA
+11:30,2025-10-14,Maldives,Tajikistan,25,19,56,57,43,34,66,STA
+19:45,2025-10-14,Saudi Arabia,Iraq,62,23,15,42,58,39,61,STA
+20:00,2025-10-14,Gabon,Burundi,65,25,10,42,58,37,63,STA
+14:00,2025-10-14,Seychelles,Gambia,15,18,67,68,32,41,59,STA

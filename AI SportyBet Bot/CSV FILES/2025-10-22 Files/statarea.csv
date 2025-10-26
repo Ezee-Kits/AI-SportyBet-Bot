@@ -1,0 +1,374 @@
+TIME,DATE,HOME TEAM,AWAY TEAM,HOME PER,DRAW PER,AWAY PER,UNDER 2.5,OVER 2.5,BTS,OTS,NAME
+16:30,2025-10-19,Liverpool,Manchester Utd,58,24,18,25,75,65,35,STA
+14:00,2025-10-19,Tottenham,Aston Villa,46,30,24,49,51,55,45,STA
+20:00,2025-10-19,Getafe,Real Madrid,18,24,58,38,62,44,56,STA
+13:00,2025-10-19,Elche,Athletic Club,46,21,33,53,47,50,50,STA
+15:15,2025-10-19,Celta Vigo,Real Sociedad,43,32,25,50,50,61,39,STA
+17:30,2025-10-19,Levante,Rayo Vallecano,41,29,30,47,53,57,43,STA
+17:00,2025-10-19,Atalanta,Lazio,49,29,22,49,51,56,44,STA
+19:45,2025-10-19,AC Milan,Fiorentina,56,27,17,52,48,44,56,STA
+11:30,2025-10-19,Como,Juventus,33,33,34,46,54,59,41,STA
+14:00,2025-10-19,Cagliari,Bologna,35,29,36,52,48,44,56,STA
+20:00,2025-10-19,Flamengo,Palmeiras,44,33,23,54,46,49,51,STA
+22:30,2025-10-19,Internacional,Sport Recife,51,29,20,51,49,48,52,STA
+22:30,2025-10-19,Ceara,Botafogo,37,29,34,65,35,33,67,STA
+22:30,2025-10-19,Mirassol,Sao Paulo,46,31,23,56,44,45,55,STA
+01:00,2025-10-19,Cruzeiro,Fortaleza,68,22,10,32,68,53,47,STA
+14:30,2025-10-19,SC Freiburg,Eintracht Frankfurt,39,35,26,35,65,66,34,STA
+16:30,2025-10-19,FC St. Pauli,1899 Hoffenheim,33,34,33,40,60,60,40,STA
+04:05,2025-10-19,Cruz Azul,Club America,33,34,33,48,52,60,40,STA
+02:00,2025-10-19,Monterrey,U.N.A.M. - Pumas,55,26,19,47,53,57,43,STA
+00:00,2025-10-19,Santos Laguna,Leon,35,29,36,41,59,58,42,STA
+00:00,2025-10-19,FC Juarez,Pachuca,37,34,29,52,48,56,44,STA
+19:00,2025-10-19,AEK Athens,PAOK,56,24,20,49,51,53,47,STA
+17:30,2025-10-19,Aris Thessalonikis,Panathinaikos,36,31,33,58,42,48,52,STA
+15:30,2025-10-19,Volos NPS,Panserraikos,53,27,20,51,49,47,53,STA
+14:00,2025-10-19,Asteras Tripolis,Kifisia,35,28,37,43,57,49,51,STA
+19:45,2025-10-19,Nantes,Lille,26,26,48,44,56,51,49,STA
+16:15,2025-10-19,Rennes,Auxerre,49,28,23,51,49,53,47,STA
+16:15,2025-10-19,Lorient,Stade Brestois 29,51,26,23,34,66,59,41,STA
+16:15,2025-10-19,Toulouse,Metz,55,26,19,42,58,50,50,STA
+14:00,2025-10-19,Lens,Paris FC,47,28,25,29,71,64,36,STA
+00:30,2025-10-19,Talleres Cordoba,River Plate,27,33,40,62,38,37,63,STA
+22:00,2025-10-19,Rosario Central,Platense,53,32,15,68,32,42,58,STA
+19:00,2025-10-19,Estudiantes L.P.,Gimnasia L.P.,58,29,13,63,37,37,63,STA
+22:00,2025-10-19,San Martin S.J.,Independiente,36,32,32,66,34,32,68,STA
+19:00,2025-10-19,Sarmiento Junin,Velez Sarsfield,24,37,39,71,29,32,68,STA
+12:30,2025-10-19,FC Sochi,Zenit,15,24,61,42,58,49,51,STA
+17:30,2025-10-19,Dinamo Moscow,Akhmat Grozny,54,31,15,43,57,62,38,STA
+15:00,2025-10-19,Rubin,Baltika,41,29,30,58,42,38,62,STA
+14:30,2025-10-19,Slovacko,Sparta Praha,16,20,64,46,54,47,53,STA
+12:00,2025-10-19,Banik Ostrava,Hradec Kralove,50,28,22,47,53,51,49,STA
+17:30,2025-10-19,FK Jablonec,Dukla Praha,64,25,11,46,54,46,54,STA
+15:30,2025-10-19,Cherno More Varna,Levski Sofia,29,35,36,67,33,41,59,STA
+18:00,2025-10-19,Lokomotiv Sofia,CSKA 1948,28,31,41,49,51,53,47,STA
+13:00,2025-10-19,Dobrudzha,CSKA Sofia,26,26,48,41,59,47,53,STA
+17:00,2025-10-19,Aris,AEL Limassol,62,21,17,36,64,41,59,STA
+17:00,2025-10-19,Apoel,Olympiakos Nicosia,68,20,12,47,53,42,58,STA
+16:30,2025-10-19,KuPS,HJK Helsinki,44,30,26,43,57,54,46,STA
+14:00,2025-10-19,Ilves,Inter Turku,42,31,27,43,57,58,42,STA
+14:00,2025-10-19,IF Gnistan,SJK,30,27,43,23,77,60,40,STA
+21:30,2025-10-19,Cerro Porteno,Olimpia,49,30,21,55,45,53,47,STA
+20:00,2025-10-19,Las Palmas,Eibar,43,31,26,68,32,40,60,STA
+13:00,2025-10-19,Leganes,Malaga,49,34,17,54,46,42,58,STA
+17:30,2025-10-19,Racing Santander,Deportivo La Coruna,42,35,23,35,65,65,35,STA
+15:15,2025-10-19,Valladolid,Sporting Gijon,49,26,25,52,48,48,52,STA
+17:30,2025-10-19,Cordoba,Almeria,33,34,33,46,54,59,41,STA
+15:15,2025-10-19,Castellon,Albacete,51,31,18,41,59,67,33,STA
+02:30,2025-10-19,Deportivo Cali,America De Cali,37,29,34,59,41,44,56,STA
+00:20,2025-10-19,Junior,Pereira,56,28,16,52,48,45,55,STA
+22:10,2025-10-19,Llaneros,Once Caldas,36,32,32,48,52,46,54,STA
+17:30,2025-10-19,St Truiden,Anderlecht,35,28,37,41,59,55,45,STA
+18:15,2025-10-19,Zulte-Waregem,Gent,31,32,37,40,60,65,35,STA
+12:30,2025-10-19,Cercle Brugge,Genk,27,28,45,32,68,65,35,STA
+15:00,2025-10-19,FC Dender,KV Mechelen,30,36,34,42,58,58,42,STA
+13:00,2025-10-19,Hammarby,AIK Stockholm,52,26,22,46,54,45,55,STA
+15:30,2025-10-19,IF Elfsborg,Osters IF,43,30,27,34,66,63,37,STA
+13:00,2025-10-19,GAIS,Djurgarden,39,30,31,51,49,49,51,STA
+15:30,2025-10-19,IFK Varnamo,IF Brommapojkarna,29,32,39,33,67,70,30,STA
+18:30,2025-10-19,Hapoel Tel Aviv,Maccabi Tel Aviv,34,22,44,34,66,53,47,STA
+16:15,2025-10-19,Empoli,Unione Venezia,29,39,32,53,47,61,39,STA
+14:00,2025-10-19,SSD Palermo,Modena,44,28,28,46,54,51,49,STA
+18:30,2025-10-19,Catanzaro,Padova,38,39,23,56,44,52,48,STA
+17:00,2025-10-19,Dunajska Streda,MSK Zilina,64,24,12,35,65,63,37,STA
+13:00,2025-10-19,FC Astana,Aktobe,63,22,15,35,65,50,50,STA
+11:00,2025-10-19,Zhetysu,Tobol Kostanay,20,30,50,57,43,48,52,STA
+14:00,2025-10-19,Ordabasy,Okzhetpes,48,27,25,49,51,54,46,STA
+13:45,2025-10-19,Lech Poznan,Pogon Szczecin,52,27,21,34,66,71,29,STA
+16:30,2025-10-19,Zaglebie Lubin,Legia Warszawa,29,28,43,37,63,63,37,STA
+11:15,2025-10-19,Piast Gliwice,Lechia Gdansk,44,31,25,48,52,53,47,STA
+15:30,2025-10-19,BSC Young Boys,FC St. Gallen,58,22,20,31,69,67,33,STA
+15:30,2025-10-19,FC Luzern,FC Lausanne-Sport,39,33,28,38,62,65,35,STA
+13:00,2025-10-19,Grasshopper-Club,FC Sion,34,31,35,42,58,57,43,STA
+14:00,2025-10-19,Colombe,MC Alger,30,45,25,73,27,29,71,STA
+17:00,2025-10-19,Vipers SC,Power Dynamos,39,24,37,53,47,44,56,STA
+13:30,2025-10-19,Catania,Salernitana,47,29,24,59,41,38,62,STA
+11:30,2025-10-19,Casertana,Siracusa,53,26,21,52,48,44,56,STA
+16:30,2025-10-19,Audace Cerignola,Cavese,50,29,21,47,53,48,52,STA
+15:00,2025-10-19,Brondby,AGF,40,29,31,43,57,61,39,STA
+13:00,2025-10-19,FC Nordsjaelland,Randers FC,54,26,20,39,61,68,32,STA
+17:00,2025-10-19,FC Midtjylland,Vejle,69,23,8,34,66,55,45,STA
+13:00,2025-10-19,Viborg,Odense,40,32,28,44,56,61,39,STA
+16:00,2025-10-19,Rapid Vienna,Lask Linz,56,26,18,40,60,53,47,STA
+13:30,2025-10-19,Red Bull Salzburg,SCR Altach,54,25,21,43,57,46,54,STA
+17:00,2025-10-19,Ujpest,Ferencvarosi TC,23,29,48,36,64,65,35,STA
+12:15,2025-10-19,Kazincbarcikai,Kisvarda,29,29,42,36,64,64,36,STA
+12:00,2025-10-19,Dundee,Celtic,15,20,65,31,69,48,52,STA
+21:00,2025-10-19,Comunicaciones,CSD Municipal,35,34,31,58,42,41,59,STA
+21:00,2025-10-19,Coban Imperial,Deportivo Marquense,68,23,9,41,59,48,52,STA
+20:00,2025-10-19,Avai,Criciuma,36,32,32,58,42,42,58,STA
+22:30,2025-10-19,Botafogo SP,Cuiaba,28,36,36,59,41,45,55,STA
+20:00,2025-10-19,Operario-PR,Volta Redonda,51,30,19,60,40,39,61,STA
+15:00,2025-10-19,FC Nordsjaelland,Randers FC,54,26,20,39,61,68,32,STA
+15:00,2025-10-19,FC Midtjylland,Vejle,69,23,8,31,69,55,45,STA
+15:00,2025-10-19,Viborg,Odense,40,32,28,44,56,61,39,STA
+02:00,2025-10-19,Colorado Rapids,Los Angeles FC,28,27,45,41,59,60,40,STA
+02:00,2025-10-19,Sporting Kansas City,Houston Dynamo,37,35,28,32,68,72,28,STA
+02:00,2025-10-19,Portland Timbers,San Diego,30,31,39,26,74,69,31,STA
+02:00,2025-10-19,Los Angeles Galaxy,Minnesota United FC,30,33,37,25,75,72,28,STA
+02:00,2025-10-19,St. Louis City,Real Salt Lake,39,33,28,29,71,70,30,STA
+02:00,2025-10-19,Vancouver Whitecaps,FC Dallas,60,29,11,29,71,62,38,STA
+15:00,2025-10-19,Gaziantep FK,Antalyaspor,50,27,23,44,56,50,50,STA
+12:30,2025-10-19,Kayserispor,Samsunspor,29,32,39,47,53,59,41,STA
+18:00,2025-10-19,Fenerbahce,Fatih Karagumruk AS,73,17,10,35,65,54,46,STA
+15:00,2025-10-19,Alanyaspor,Goztepe,33,34,33,55,45,52,48,STA
+14:30,2025-10-19,CA River Plate,Cerro Largo,32,28,40,53,47,48,52,STA
+19:30,2025-10-19,Progreso,Defensor Sporting,47,21,32,57,43,35,65,STA
+12:30,2025-10-19,FC Nurnberg,Holstein Kiel,37,25,38,44,56,54,46,STA
+12:30,2025-10-19,SV Darmstadt 98,FC Magdeburg,59,21,20,31,69,58,42,STA
+12:30,2025-10-19,SV Elversberg,SpVgg Greuther Furth,57,22,21,33,67,58,42,STA
+16:00,2025-10-19,Molde,Sandefjord,50,24,26,26,74,62,38,STA
+13:30,2025-10-19,Tromso,Viking,38,31,31,46,54,53,47,STA
+16:30,2025-10-19,Antofagasta,Universidad De Concepcion,35,32,33,46,54,53,47,STA
+21:30,2025-10-19,Deportes Temuco,Deportes Santa Cruz,44,34,22,46,54,50,50,STA
+19:00,2025-10-19,Deportes Copiapo,Magallanes,56,31,13,52,48,41,59,STA
+15:00,2025-10-19,Istra 1961,HNK Hajduk Split,29,31,40,60,40,40,60,STA
+17:15,2025-10-19,HNK Gorica,NK Varazdin,36,32,32,57,43,41,59,STA
+15:00,2025-10-19,Zimbru Chisinau,Petrocub,45,29,26,56,44,45,55,STA
+13:00,2025-10-19,Sheriff Tiraspol,Sparta Selemet,80,14,6,18,82,46,54,STA
+12:30,2025-10-19,Chonburi FC,Chiangrai United,39,30,31,53,47,53,47,STA
+13:00,2025-10-19,Dragon Pathumwan Kanchanaburi,Uthai Thani,55,24,21,41,59,65,35,STA
+18:30,2025-10-19,Spartak Subotica,Radnicki Nis,41,31,28,46,54,63,37,STA
+18:30,2025-10-19,Crvena Zvezda,FK IMT Beograd,75,17,8,30,70,54,46,STA
+14:30,2025-10-19,Cukaricki,Novi Pazar,45,38,17,47,53,62,38,STA
+16:00,2025-10-19,Mladost Lucani,Zeleznicar Pancevo,31,35,34,47,53,59,41,STA
+18:30,2025-10-19,Dinamo Bucuresti,Rapid Bucuresti,37,37,26,56,44,54,46,STA
+01:30,2025-10-19,Caracas FC,Carabobo FC,40,31,29,54,46,43,57,STA
+06:00,2025-10-19,Gyeongnam FC,Seongnam FC,28,28,44,58,42,48,52,STA
+08:30,2025-10-19,Hwaseong FC,Suwon Bluewings,21,28,51,47,53,57,43,STA
+06:00,2025-10-19,Ansan Greeners,Incheon United,16,23,61,52,48,34,66,STA
+06:00,2025-10-19,Seoul E-Land FC,Busan I Park,32,37,31,55,45,46,54,STA
+08:30,2025-10-19,Cheongju FC,Jeonnam Dragons,21,28,51,46,54,52,48,STA
+08:30,2025-10-19,Bucheon 1995,Cheonan City,53,28,19,47,53,54,46,STA
+06:00,2025-10-19,Chungnam Asan,Gimpo Citizen,33,34,33,63,37,43,57,STA
+16:00,2025-10-19,Niger Tornadoes,Plateau United,57,27,16,69,31,37,63,STA
+16:00,2025-10-19,Ikorodu City,Nasarawa United,46,32,22,54,46,43,57,STA
+16:00,2025-10-19,Berekum Chelsea,Hearts of Oak,38,31,31,70,30,26,74,STA
+13:30,2025-10-19,Slask Wroclaw,Stal Mielec,57,27,16,40,60,68,32,STA
+11:00,2025-10-19,Polonia Bytom,Odra Opole,53,27,20,41,59,50,50,STA
+16:30,2025-10-19,Gornik Leczna,Znicz Pruszkow,43,26,31,31,69,60,40,STA
+22:20,2025-10-19,Municipal Limeno,Aguila,36,28,36,55,45,45,55,STA
+22:00,2025-10-19,Cd Cacahuatique,CD Platense Municipal,42,32,26,46,54,50,50,STA
+14:15,2025-10-19,Nassaji Mazandaran,Mes Kerman,48,33,19,67,33,26,74,STA
+13:30,2025-10-19,Mes Sungun,Sanat Naft,27,38,35,64,36,30,70,STA
+14:00,2025-10-19,Mes Shahr Babak,Saipa,33,34,33,64,36,34,66,STA
+14:15,2025-10-19,Havadar SC,Niroye Zamini,49,32,19,68,32,31,69,STA
+00:00,2025-10-19,Patriotas,Jaguares,50,34,16,65,35,36,64,STA
+23:00,2025-10-19,Orsomarso,Quindio,46,35,19,51,49,44,56,STA
+18:00,2025-10-19,Difaa El Jadida,Ittihad Tanger,38,36,26,60,40,50,50,STA
+12:35,2025-10-19,Henan Jianye,Changchun Yatai,51,28,21,37,63,67,33,STA
+08:30,2025-10-19,Dalian Zhixing,Wuhan Three Towns,52,24,24,40,60,55,45,STA
+19:30,2025-10-19,Cerrito,Deportivo Maldonado,29,27,44,51,49,46,54,STA
+20:00,2025-10-19,Atenas,Rampla Juniors,46,33,21,65,35,43,57,STA
+09:30,2025-10-19,PSM Makassar,Arema FC,37,35,28,58,42,55,45,STA
+13:00,2025-10-19,Persijap Jepara,Bali United Pusam,32,31,37,47,53,54,46,STA
+11:00,2025-10-19,FK Tukums 2000,Rigas Futbola Skola,18,16,66,32,68,53,47,STA
+13:00,2025-10-19,FS Metta/Lu,Riga FC,15,14,71,32,68,45,55,STA
+16:30,2025-10-19,NK Bravo,Primorje,56,28,16,43,57,61,39,STA
+12:00,2025-10-19,Pakhtakor,Qizilqum Zarafshon,67,22,11,40,60,41,59,STA
+19:00,2025-10-19,Ceramica Cleopatra,El Geish,54,29,17,67,33,28,72,STA
+18:00,2025-10-19,Ceramica Cleopatra,El Geish,54,29,17,67,33,28,72,STA
+22:00,2025-10-19,Coban Imperial,Deportivo Marquense,68,23,9,41,59,48,52,STA
+00:00,2025-10-19,Puntarenas FC,CS Cartagines,40,31,29,59,41,41,59,STA
+01:00,2025-10-19,Municipal Grecia,Jicaral Sercoba,27,34,39,37,63,67,33,STA
+15:00,2025-10-19,Avenir De La Marsa,Etoile S. Metlaoui,47,30,23,61,39,38,62,STA
+06:00,2025-10-19,Oita Trinita,Vegalta Sendai,23,33,44,56,44,42,58,STA
+04:55,2025-10-19,Kataller Toyama,Consadole Sapporo,30,26,44,42,58,61,39,STA
+08:00,2025-10-19,Mito HollyHock,JEF United Chiba,42,29,29,53,47,47,53,STA
+06:00,2025-10-19,Montedio Yamagata,Roasso Kumamoto,45,28,27,39,61,63,37,STA
+05:00,2025-10-19,FC Imabari,Renofa Yamaguchi,50,28,22,58,42,45,55,STA
+16:30,2025-10-19,Coquimbo,Colo Colo,45,32,23,43,57,49,51,STA
+15:30,2025-10-19,Penafiel,Feirense,40,34,26,62,38,44,56,STA
+11:00,2025-10-19,FC Porto B,Maritimo,21,25,54,52,48,48,52,STA
+12:30,2025-10-19,Harju Jalgpallikool,Kalju Nomme,22,21,57,27,73,57,43,STA
+07:00,2025-10-19,Shonan Bellmare,Kyoto Sanga,23,29,48,43,57,57,43,STA
+11:00,2025-10-19,Recreativo Huelva,Xerez,41,34,25,60,40,40,60,STA
+11:00,2025-10-19,Almeria B,UCAM Murcia,29,29,42,58,42,46,54,STA
+11:00,2025-10-19,Puente Genil,Real Jaen,38,33,29,60,40,46,54,STA
+16:00,2025-10-19,Melilla,Atletico Malagueno,44,35,21,53,47,51,49,STA
+17:00,2025-10-19,Xerez Deportivo,Cda Aguilas FC,32,32,36,66,34,43,57,STA
+14:00,2025-10-19,Fafe,Moreirense,40,19,41,45,55,46,54,STA
+15:00,2025-10-19,Sintrense,Rio Ave,34,25,41,30,70,47,53,STA
+15:00,2025-10-19,Vila Real,Tondela,30,24,46,39,61,47,53,STA
+15:00,2025-10-19,Amarante,Leixoes,36,31,33,50,50,51,49,STA
+15:00,2025-10-19,Anadia,Marinhense,46,34,20,66,34,45,55,STA
+15:00,2025-10-19,Atletico CP,Felgueiras,36,31,33,56,44,43,57,STA
+15:00,2025-10-19,1o Dezembro,Benfica Castelo Branco,52,33,15,57,43,42,58,STA
+15:00,2025-10-19,Silves FC,Louletano,23,25,52,41,59,59,41,STA
+09:00,2025-10-19,Dinamo Barnaul,Amkar,22,20,58,31,69,42,58,STA
+10:00,2025-10-19,Nosta,Volna Nizhny Novgorod,31,28,41,42,58,58,42,STA
+13:00,2025-10-19,Orenburg 2,Uralets Nizhny Tagil,44,35,21,50,50,53,47,STA
+16:00,2025-10-19,Soroksar,MOL Fehervar FC,33,32,35,29,71,67,33,STA
+16:00,2025-10-19,Kozarmisleny FC,Budapest Honved,21,27,52,50,50,49,51,STA
+16:00,2025-10-19,Vasas,Szentlorinc SE,58,26,16,38,62,55,45,STA
+16:00,2025-10-19,Szeged-Csanad,Bvsc Zuglo,55,30,15,49,51,47,53,STA
+16:00,2025-10-19,Tiszakecske FC,FC Ajka,36,33,31,60,40,52,48,STA
+11:30,2025-10-19,Keciorengucu,Sivasspor,46,32,22,40,60,60,40,STA
+17:00,2025-10-19,76 Igdir Belediyespor,Boluspor,53,28,19,40,60,50,50,STA
+17:00,2025-10-19,Esenler Erokspor,BB Bodrumspor,36,33,31,39,61,61,39,STA
+17:00,2025-10-19,Serik Belediyespor,Amedspor,41,23,36,39,61,55,45,STA
+13:00,2025-10-19,68 Aksaray Belediye Spor,Bursaspor,35,26,39,43,57,45,55,STA
+17:00,2025-10-19,Isparta 32 Spor,Fethiyespor,50,29,21,50,50,46,54,STA
+10:00,2025-10-19,FC Chelyabinsk,Arsenal Tula,45,30,25,50,50,46,54,STA
+08:00,2025-10-19,Yenisey Krasnoyarsk,Spartak Kostroma,24,32,44,48,52,49,51,STA
+14:00,2025-10-19,Beltinci,NK Tabor Sezana,37,34,29,37,63,59,41,STA
+16:00,2025-10-19,Nafta,ND Ilirija,69,22,9,35,65,51,49,STA
+17:00,2025-10-19,Sanliurfaspor,Elazigspor,46,20,34,33,67,55,45,STA
+14:00,2025-10-19,Karaman Belediyespor,Ankaragucu,32,29,39,37,63,66,34,STA
+17:00,2025-10-19,Bucaspor Izmir,Inegolspor,24,21,55,37,63,49,51,STA
+11:00,2025-10-19,Kastamonuspor,Adana 1954,37,33,30,57,43,46,54,STA
+12:30,2025-10-19,Ankaraspor,Iskenderun FK,50,30,20,50,50,44,56,STA
+13:00,2025-10-19,Muglaspor,24 Erzincanspor,61,27,12,45,55,44,56,STA
+17:00,2025-10-19,Batman Petrolspor,Altinordu,75,20,5,42,58,39,61,STA
+12:00,2025-10-19,Pas Giannina,Kampaniakos,55,27,18,41,59,42,58,STA
+12:00,2025-10-19,Egaleo,Panionios,21,30,49,57,43,33,67,STA
+01:00,2025-10-19,Atlante,Venados FC,59,25,16,37,63,53,47,STA
+01:00,2025-10-19,Irapuato,Atletico Morelia,53,29,18,36,64,62,38,STA
+13:00,2025-10-19,JJK,Tampere United,40,31,29,24,76,67,33,STA
+13:00,2025-10-19,Mikkelin Palloilijat,OLS,44,30,26,36,64,63,37,STA
+15:00,2025-10-19,Jonkopings Sodra,Ljungskile SK,50,25,25,40,60,59,41,STA
+09:15,2025-10-19,Viktoria Zizkov,Vlasim,50,27,23,42,58,57,43,STA
+09:15,2025-10-19,Slavia Praha B,Kromeriz,63,25,12,35,65,62,38,STA
+13:00,2025-10-19,FC Wil 1900,FC Vaduz,26,35,39,41,59,63,37,STA
+13:00,2025-10-19,Yverdon-Sport FC,AC Bellinzona,67,23,10,38,62,49,51,STA
+06:00,2025-10-19,Sagamihara,Matsumoto Yamaga,54,23,23,52,48,42,58,STA
+05:00,2025-10-19,Vanraure Hachinohe,Tochigi SC,54,26,20,59,41,44,56,STA
+06:00,2025-10-19,Azul Claro Numazu,FC Osaka,22,28,50,51,49,53,47,STA
+06:00,2025-10-19,Kamatamare Sanuki,Giravanz Kitakyushu,36,29,35,50,50,50,50,STA
+06:00,2025-10-19,Tegevajaro Miyazaki,Tochigi Uva FC,34,31,35,45,55,59,41,STA
+06:00,2025-10-19,Zweigen Kanazawa,FC Gifu,47,25,28,46,54,56,44,STA
+13:00,2025-10-19,Inter Turku 2,RoPS,54,27,19,16,84,70,30,STA
+13:00,2025-10-19,EPS,Atlantis FC,52,24,24,18,82,78,22,STA
+13:00,2025-10-19,FC Jazz,PK Keski-Uusimaa,42,27,31,23,77,70,30,STA
+15:00,2025-10-19,Podbeskidzie,Swit Skolwin,47,24,29,27,73,62,38,STA
+18:30,2025-10-19,Stal Stalowa Wola,Zaglebie Sosnowiec,36,35,29,39,61,65,35,STA
+11:00,2025-10-19,Olimpia Grudziadz,Chojniczanka Chojnice,48,33,19,38,62,69,31,STA
+15:00,2025-10-19,LKS Lodz II,Rekord Bielsko-Biala,33,31,36,36,64,63,37,STA
+16:00,2025-10-19,Flamurtari Vlore,Partizani,33,35,32,52,48,49,51,STA
+15:40,2025-10-19,Al-Shabab Al Ahmadi,Al-Kuwait,15,20,65,33,67,55,45,STA
+17:55,2025-10-19,Al-Arabi Kuwait City,Al-Salmiyah,51,32,17,49,51,54,46,STA
+14:00,2025-10-19,Lyngby,Aarhus Fremad,47,30,23,40,60,60,40,STA
+20:15,2025-10-19,Valur Reykjavik,FH Hafnarfjordur,54,24,22,27,73,69,31,STA
+14:30,2025-10-19,HNK Cibalia,Dugopolje,49,29,22,54,46,44,56,STA
+12:45,2025-10-19,Jarun,Dubrava Zagreb,37,29,34,44,56,52,48,STA
+13:30,2025-10-19,A.E. Zakakiou,Spartakos Kitiou,34,24,42,39,61,50,50,STA
+12:00,2025-10-19,Utsiktens BK,Trelleborgs FF,48,26,26,31,69,65,35,STA
+12:30,2025-10-19,Tampines Rovers FC,Balestier Khalsa FC,60,20,20,26,74,60,40,STA
+00:00,2025-10-19,Greenville Triumph SC,South Georgia Tormenta,42,28,30,39,61,63,37,STA
+20:00,2025-10-19,One Knoxville Sc,Texoma,67,24,9,48,52,44,56,STA
+00:30,2025-10-19,Tampa Bay Rowdies,Hartford Athletic,32,31,37,34,66,63,37,STA
+00:30,2025-10-19,Charleston Battery,Detroit City FC,60,26,14,38,62,51,49,STA
+01:00,2025-10-19,Colorado Switchbacks,Las Vegas Lights FC,58,22,20,48,52,40,60,STA
+02:00,2025-10-19,El Paso Locomotive,FC Tulsa,38,32,30,45,55,62,38,STA
+03:00,2025-10-19,Orange County SC,Louisville City FC,27,27,46,42,58,57,43,STA
+03:00,2025-10-19,Monterey Bay FC,Pittsburgh Riverhounds,31,29,40,54,46,50,50,STA
+03:00,2025-10-19,Phoenix Rising,San Antonio FC,44,38,18,50,50,56,44,STA
+00:00,2025-10-19,North Carolina FC,Rhode Island,38,29,33,50,50,51,49,STA
+00:30,2025-10-19,Houston Dash (w),Kansas City Nwsl (w),21,20,59,47,53,49,51,STA
+03:00,2025-10-19,San Diego Wave FC (w),Chicago Red Stars (w),54,32,14,52,48,48,52,STA
+20:00,2025-10-19,Gotham FC (w),Racing Louisville (w),47,31,22,43,57,52,48,STA
+22:00,2025-10-19,Angel City FC (w),Portland Thorns (w),45,34,21,49,51,59,41,STA
+12:30,2025-10-19,Nantong Zhiyun,Guangxi Baoyun,58,27,15,53,47,52,48,STA
+13:00,2025-10-19,Pitea IF (w),Kristianstads DFF (w),37,24,39,37,63,59,41,STA
+15:00,2025-10-19,Vittsjo Gik (w),Hammarby IF DFF (w),31,19,50,36,64,45,55,STA
+15:00,2025-10-19,Assyriska United IK,IFK Haninge,75,17,8,22,78,68,32,STA
+13:00,2025-10-19,IFK Hassleholm,IFK Karlshamn,32,25,43,22,78,72,28,STA
+13:00,2025-10-19,Torns IF,FK Karlskrona,22,22,56,36,64,53,47,STA
+13:00,2025-10-19,Soelvesborgs Goif,Fbk Balkan,56,27,17,25,75,73,27,STA
+13:00,2025-10-19,Nosaby IF,Vaexjoe Norra If,42,30,28,34,66,62,38,STA
+13:00,2025-10-19,Osterlen FF,Kristianstad FC,24,26,50,39,61,61,39,STA
+13:00,2025-10-19,Tvaakers IF,Onsala BK,59,20,21,33,67,62,38,STA
+13:00,2025-10-19,Laholms FK,Vastra Frolunda IF,51,25,24,26,74,70,30,STA
+13:00,2025-10-19,Astorps FF,Qviding FIF,53,27,20,31,69,73,27,STA
+13:30,2025-10-19,Flekkeroy,Brann II,31,24,45,18,82,68,32,STA
+15:00,2025-10-19,Brattvag,Sotra,42,30,28,43,57,61,39,STA
+11:30,2025-10-19,Grorud,Rana FK,71,20,9,22,78,67,33,STA
+12:00,2025-10-19,Ull/Kisa,Tromsdalen UIL,32,29,39,22,78,76,24,STA
+13:00,2025-10-19,Stjordals Blink,Kjelsas,33,30,37,39,61,65,35,STA
+14:00,2025-10-19,Asker,Levanger,30,26,44,27,73,62,38,STA
+12:00,2025-10-19,Alta IF,Eidsvold Turn,24,31,45,19,81,79,21,STA
+15:00,2025-10-19,Gamle Oslo,Floya,58,20,22,16,84,76,24,STA
+13:00,2025-10-19,Ulfstind,Junkeren,24,19,57,15,85,71,29,STA
+13:00,2025-10-19,Aalesund 2,Trygg-lade,26,22,52,16,84,77,23,STA
+13:00,2025-10-19,Fyllingsdalen,Loddefjord,62,19,19,15,85,71,29,STA
+13:00,2025-10-19,Os,Lyn Oslo 2,68,16,16,15,85,66,34,STA
+14:00,2025-10-19,Odd Ballklubb 2,Kvik Halden,17,18,65,17,83,70,30,STA
+13:00,2025-10-19,Fram Larvik,Stabaek 2,62,20,18,21,79,70,30,STA
+09:30,2025-10-19,OFK Malzenice,MSK Zilina B,52,21,27,33,67,65,35,STA
+09:30,2025-10-19,Slovan Bratislava B,STK 1914 Samorin,42,31,27,41,59,67,33,STA
+13:00,2025-10-19,Hertha Berlin II,Chemnitzer FC,31,31,38,37,63,63,37,STA
+13:00,2025-10-19,Lokomotive Leipzig,BSG Chemie Leipzig,68,24,8,50,50,34,66,STA
+15:00,2025-10-19,ZFC Meuselwitz,Magdeburg II,28,27,45,39,61,53,47,STA
+13:00,2025-10-19,Luki-Energiya,Zenit II,15,26,59,41,59,57,43,STA
+12:00,2025-10-19,Torpedo Vladimir,Chertanovo Moscow,45,31,24,51,49,49,51,STA
+12:00,2025-10-19,FC Tver,Irkutsk,35,35,30,46,54,67,33,STA
+13:00,2025-10-19,Thisted FC,HIK,36,34,30,50,50,60,40,STA
+14:00,2025-10-19,Bremer SV,SV Meppen,25,21,54,22,78,64,36,STA
+13:00,2025-10-19,FC St. Pauli II,Altona 93,44,28,28,31,69,69,31,STA
+14:00,2025-10-19,Lugano II,FC Bavois,23,33,44,37,63,66,34,STA
+12:00,2025-10-19,Alania Vladikavkaz,Veles Moscow,31,32,37,50,50,45,55,STA
+13:00,2025-10-19,Leningradets,Tekstilshtik Ivanovo,46,27,27,47,53,58,42,STA
+10:00,2025-10-19,Tyumen,Dinamo Moscow 2,50,28,22,46,54,57,43,STA
+15:00,2025-10-19,Volgar Astrakhan,Mashuk-KMV,41,29,30,60,40,42,58,STA
+13:00,2025-10-19,Rubin Yalta,Druzhba Maykop,36,32,32,59,41,45,55,STA
+16:00,2025-10-19,BKMA,Ararat Yerevan,52,28,20,40,60,64,36,STA
+15:00,2025-10-19,Bayern Munich (w),FC Koln (w),79,15,6,33,67,36,64,STA
+16:15,2025-10-19,Bayer Leverkusen (w),VfL Wolfsburg (w),29,26,45,36,64,57,43,STA
+15:00,2025-10-19,Real Madrid (w),Levante (w),83,11,6,30,70,43,57,STA
+12:00,2025-10-19,Hai Phong,Hoang Anh Gia Lai,60,28,12,55,45,45,55,STA
+12:00,2025-10-19,Pho Hien,Thanh Hoa,49,28,23,45,55,50,50,STA
+03:00,2025-10-19,Sydney Olympic,Broadmeadow Magic,50,16,34,37,63,57,43,STA
+06:30,2025-10-19,South Melbourne,Moreton Bay United,48,21,31,39,61,55,45,STA
+15:00,2025-10-19,Afturelding,Vestri,41,34,25,45,55,67,33,STA
+15:00,2025-10-19,KA Akureyri,IA Akranes,49,27,24,37,63,62,38,STA
+15:00,2025-10-19,KR Reykjavik,IBV Vestmannaeyjar,40,26,34,28,72,68,32,STA
+11:00,2025-10-19,Ourense,Real Madrid Castilla,27,35,38,61,39,43,57,STA
+15:00,2025-10-19,Real Aviles,CF Talavera Reina,50,28,22,47,53,47,53,STA
+19:30,2025-10-19,Athletic Club B,Cacereno,46,34,20,62,38,47,53,STA
+03:00,2025-10-19,Canberra FC,Preston Lions,32,14,54,26,74,54,46,STA
+06:30,2025-10-19,Spirit FC,Avondale FC,43,18,39,35,65,59,41,STA
+12:30,2025-10-19,SSV Ulm 1846,Energie Cottbus,36,30,34,31,69,68,32,STA
+15:30,2025-10-19,TSV 1860 Munich,MSV Duisburg,36,30,34,43,57,55,45,STA
+18:30,2025-10-19,TSV Havelse,Jahn Regensburg,42,30,28,46,54,60,40,STA
+11:00,2025-10-19,Atletico Madrid B,Juventud Torremolinos Cf,53,30,17,62,38,38,62,STA
+15:15,2025-10-19,Teruel,Sevilla Atletico,49,34,17,63,37,39,61,STA
+17:15,2025-10-19,Murcia,UD Ibiza,42,34,24,61,39,43,57,STA
+19:30,2025-10-19,Betis Deportivo Balompie,Atletico Sanluqueno,30,33,37,48,52,60,40,STA
+06:30,2025-10-19,Bayswater City,NE Metrostars,34,25,41,36,64,54,46,STA
+13:30,2025-10-19,L. R. Vicenza,AlbinoLeffe,61,26,13,42,58,45,55,STA
+16:30,2025-10-19,Lumezzane,AC Trento,31,34,35,51,49,52,48,STA
+16:30,2025-10-19,Pro Vercelli,GIANA Erminio,41,33,26,61,39,38,62,STA
+16:30,2025-10-19,Virtus Verona,Pro Patria,43,35,22,52,48,55,45,STA
+13:30,2025-10-19,Ravenna,Arezzo,39,21,40,45,55,50,50,STA
+16:30,2025-10-19,Pineto,Perugia,43,33,24,54,46,51,49,STA
+13:00,2025-10-19,Bahlinger SC,SC Freiburg II,29,31,40,26,74,66,34,STA
+13:00,2025-10-19,FSV Frankfurt,Kickers Offenbach,38,34,28,30,70,72,28,STA
+16:00,2025-10-19,Numancia,Salamanca CF UDS,41,29,30,59,41,32,68,STA
+17:00,2025-10-19,Gimnastica Segoviana,Real Avila,41,34,25,61,39,48,52,STA
+11:00,2025-10-19,Deportivo Alaves B,Gernika,48,31,21,56,44,44,56,STA
+16:00,2025-10-19,SD Logrones,CD Alfaro,60,25,15,48,52,43,57,STA
+11:00,2025-10-19,Atletico Baleares,Alcoyano,51,28,21,52,48,39,61,STA
+11:00,2025-10-19,Porreres,Barbastro,38,30,32,66,34,39,61,STA
+11:00,2025-10-19,Torrent Cf,UE Olot,35,35,30,65,35,40,60,STA
+17:00,2025-10-19,Terrassa,Espanyol B,45,34,21,61,39,39,61,STA
+10:30,2025-10-19,Getafe B,San Sebastian De Los Reyes,37,32,31,61,39,45,55,STA
+11:00,2025-10-19,Cf Intercity,Tenerife B,46,29,25,54,46,51,49,STA
+11:00,2025-10-19,Conquense,Navalcarnero,43,28,29,65,35,34,66,STA
+11:00,2025-10-19,UD Socuellamos CF,Rayo Majadahonda,32,32,36,67,33,33,67,STA
+17:30,2025-10-19,Orihuela,Real Madrid C,43,30,27,65,35,36,64,STA
+14:00,2025-10-19,Sanremese,Cairese,39,32,29,63,37,41,59,STA
+14:00,2025-10-19,Sestri Levante,Vado,31,32,37,57,43,56,44,STA
+14:00,2025-10-19,Castellanzese,Brusaporto,26,38,36,49,51,59,41,STA
+14:00,2025-10-19,Este,Adriese,38,29,33,60,40,55,45,STA
+14:00,2025-10-19,Luparense,Cjarlins Muzane,31,34,35,53,47,49,51,STA
+14:00,2025-10-19,Treviso,Legnago Salus,46,28,26,52,48,47,53,STA
+14:00,2025-10-19,Tropical Coriano,Pro Sesto,33,29,38,57,43,52,48,STA
+14:00,2025-10-19,Teramo,Sora,54,27,19,55,45,47,53,STA
+15:00,2025-10-19,Citta di Fasano,Fidelis Andria,48,35,17,58,42,54,46,STA
+14:00,2025-10-19,Sambiase,Messina,47,30,23,53,47,51,49,STA
+21:00,2025-10-19,Deportivo Moron,Atletico Atlanta,49,38,13,69,31,31,69,STA
+18:45,2025-10-19,Gimnasia Jujuy,Deportivo Madryn,39,43,18,67,33,43,57,STA
+02:00,2025-10-19,Gimnasia Y Tiro,Estudiantes R.C.,51,29,20,60,40,36,64,STA
+19:30,2025-10-19,Claypole,Canuelas,43,41,16,69,31,38,62,STA
+15:00,2025-10-19,9 De Julio Rafaela,Deportivo Rincon,59,30,11,65,35,34,66,STA
+20:00,2025-10-19,Guillermo Brown,Sportivo Belgrano,61,23,16,59,41,34,66,STA
