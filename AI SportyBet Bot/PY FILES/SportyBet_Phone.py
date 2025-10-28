@@ -1,4 +1,4 @@
-from func import main_date,save_daily_csv2,saving_files,place_bet,sort_by_name_and_time,click_center,start_btn
+from func import main_date,save_daily_csv2,saving_files,place_bet,sort_by_name_and_time,click_center
 from datetime import datetime
 from pyppeteer import launch
 from Main_Calc import cal
@@ -58,8 +58,7 @@ async def main():
     page = await browser.newPage()
     url = 'https://www.sportybet.com/ng/sport/football/today'
     await page.goto(url=url,timeout = 0,waitUntil='networkidle2')
-    start_btn()
-    # input("PRESS ENTER AFTER LOGGING IN AND SETTING UP THE PAGE TO AUTOMATE...")
+    input("PRESS ENTER AFTER LOGGING IN AND SETTING UP THE PAGE TO AUTOMATE...")
 
 
 
