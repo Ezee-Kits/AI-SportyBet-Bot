@@ -1,8 +1,8 @@
-from func import main_date,save_daily_csv2,saving_files,place_bet,sort_by_name_and_time,click_center
+from func import main_date,save_daily_csv2,saving_files,place_bet,sort_by_name_and_time_exact,click_center
 from datetime import datetime
 from pyppeteer import launch
 from Main_Calc import cal
-import os,time
+import os
 import asyncio
 import pandas as pd
 import warnings
@@ -10,18 +10,16 @@ warnings.simplefilter(action='ignore',category=pd.errors.PerformanceWarning)
 
 
 browser_delay_time=5000
-
 csv_files_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), f'CSV FILES/{str(main_date())} Files')
-
 save_dir = save_daily_csv2(main_dir=os.path.join(os.path.dirname(os.path.dirname(__file__)),'CSV FILES'),second_dir_path_name=str(main_date())+' Main_Files')
 save_path = f'{save_dir}/Data.csv'
 
 
 
-percent = 57 # DATA SORTING PERCENT
+percent = 55 # DATA SORTING PERCENT
 A_edge = 10 #ACCEPTED EDGE
-# FA3W_percent = 53 #FORBET ACCEPTED 3WAY PERCENT
-# FA2W_percent = 63 #FORBET ACCEPTED 2WAY PERCENT
+# FA3W_percent = 58 #FORBET ACCEPTED 3WAY PERCENT
+# FA2W_percent = 64 #FORBET ACCEPTED 2WAY PERCENT
 Err_Timeout = 4000 # WEBPAGE TIMEOUT 
 
 
@@ -35,75 +33,66 @@ frb_df_f = pd.read_csv(f'{csv_files_path}/forebet.csv')
 pre_df_f = pd.read_csv(f'{csv_files_path}/prematips.csv')
 sta_df_f = pd.read_csv(f'{csv_files_path}/statarea.csv')
 
- 
 
 async def main():
     global acc_df, bcl_df, fst_df, frb_df, pre_df, sta_df
     browser = await launch({
         'executablePath': '/data/data/com.termux/files/usr/lib/chromium/chrome',
-        'args': [
-            '--no-sandbox',
-            '--disable-gpu',
-            '--disable-dev-shm-usage',
-            '--disable-software-rasterizer',
-            '--disable-setuid-sandbox',
-            '--enable-features=UseOzonePlatform',
-            '--ozone-platform=x11'
-        ],
+		'args': [
+		    '--no-sandbox',
+		    '--disable-gpu',
+		    '--disable-dev-shm-usage',
+		    '--disable-software-rasterizer',
+		    '--disable-setuid-sandbox',
+		    '--enable-features=UseOzonePlatform',
+		    '--password-store=basic',
+		    '--use-mock-keychain',
+		    '--ozone-platform=x11'
+		],
         'headless': False,
         'userDataDir': '/data/data/com.termux/files/home/BrowserData'
     })
 
-    
+
     page = await browser.newPage()
     url = 'https://www.sportybet.com/ng/sport/football/today'
     await page.goto(url=url,timeout = 0,waitUntil='networkidle2')
     input("PRESS ENTER AFTER LOGGING IN AND SETTING UP THE PAGE TO AUTOMATE...")
 
 
-
-    for next_page in range(2,12):
+    running = True
+    next_page = 2
+    while running:
         for fir_match in range(2,100): # MAIN LAYER (2 MINIMUM VALUE)
-            print(f'\n [[CURRENTLY ON PAGINATION PAGE]] : {next_page-1}\n')
+            print(f'\n [[CURRENTLY ON PAGINATION PAGE]] : {next_page-1} & FIRST-MATCH BOX NUMBER {fir_match}\n')
             try:
                 await page.waitForXPath(f'//*[@id="importMatch"]/div[{fir_match}]/div/div[3]/div[1]', timeout=Err_Timeout)
-                # Scroll element into view
                 await page.evaluate(f'''
                     el = document.evaluate('//*[@id="importMatch"]/div[{fir_match}]/div/div[3]/div[1]',
                     document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
                     el.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
                 ''')
             except:
-                try:
-                    await page.waitForXPath(f'//*[@id="importMatch"]/div[{fir_match+1}]/div/div[3]/div[1]', timeout=Err_Timeout)
-                    # Scroll element into view
-                    await page.evaluate(f'''
-                        el = document.evaluate('//*[@id="importMatch"]/div[{fir_match+1}]/div/div[3]/div[1]',
-                        document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-                        el.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
-                    ''')
-                except:
-                    try:
-                        print(f'\n CURRENTLY ON PAGINATION SECTION : {next_page} \n')
-                        await page.waitForXPath(f'//span[@class="pageNum" and text()="{next_page}"]', timeout=Err_Timeout)
-                        # Scroll element into view
-                        await page.evaluate(f'''
-                            el = document.evaluate('//span[@class="pageNum" and text()="{next_page}"]',
-                            document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-                            el.scrollIntoView({{ behavior: 'smooth', block: 'center' }});
-                        ''')
-
-                        await asyncio.sleep(2)
-                        await click_center(page, f'//span[@class="pageNum" and text()="{next_page}"]') 
-                        await asyncio.sleep(12)
-                        print(f'\n CLICKED ON NEXXT PAGE : {next_page}\n')
-                        break
-                    except:
-                        break
-
+                is_disabled = await page.Jx('//span[contains(@class, "icon-next") and contains(@class, "icon-disabled")]')
+                is_NextAvaliable = await page.Jx('//div[@class="pagination pagination"]/span[contains(@class,"icon-next")]')
+                if is_disabled:
+                    print("\n✅ Reached the last page. No more next pages to click.\n")
+                    running = False
+                    break
+                elif is_NextAvaliable:
+                    print("\n➡️ Clicking on Next page...\n")
+                    await click_center(page, '//div[@class="pagination pagination"]/span[contains(@class,"icon-next")]')
+                    await page.waitForXPath('//*[@id="importMatch"]/div[2]/div/div[3]/div[1]', timeout=10000)
+                    print(f'\n CLICKED ON NEXXT PAGE : {next_page}\n')
+                    next_page +=1
+                    break
+                else:
+                    print("\n✅ No more new next pages to click exist.✅ \n")
+                    running = False
+                    break
 
             sec_match_error_list = []
-            for sec_match in range(2,50): # SUB LAYER (2 MINIMUM VALUE)
+            for sec_match in range(2,100): # SUB LAYER (2 MINIMUM VALUE)
                 pp_data = {'INFO':[]}
                 print(f'\n CURRENTLY ON SPORTY NUMBER >>>> {fir_match} ON {sec_match}\n')
     
@@ -172,17 +161,17 @@ async def main():
                 if pp_target not in pp_data_df:
                     saving_files(data=pp_data,path=save_path)
 
-                    acc_df = sort_by_name_and_time(acc_df_f, spt_home_team, spt_away_team, spt_time, percent)
-                    bcl_df = sort_by_name_and_time(bcl_df_f, spt_home_team, spt_away_team, spt_time, percent)
-                    fst_df = sort_by_name_and_time(fst_df_f, spt_home_team, spt_away_team, spt_time, percent)
-                    frb_df = sort_by_name_and_time(frb_df_f, spt_home_team, spt_away_team, spt_time, percent)
-                    pre_df = sort_by_name_and_time(pre_df_f, spt_home_team, spt_away_team, spt_time, percent)
-                    sta_df = sort_by_name_and_time(sta_df_f, spt_home_team, spt_away_team, spt_time, percent)
+                    acc_df = sort_by_name_and_time_exact(acc_df_f, spt_home_team, spt_away_team, spt_time, percent)
+                    bcl_df = sort_by_name_and_time_exact(bcl_df_f, spt_home_team, spt_away_team, spt_time, percent)
+                    fst_df = sort_by_name_and_time_exact(fst_df_f, spt_home_team, spt_away_team, spt_time, percent)
+                    frb_df = sort_by_name_and_time_exact(frb_df_f, spt_home_team, spt_away_team, spt_time, percent)
+                    pre_df = sort_by_name_and_time_exact(pre_df_f, spt_home_team, spt_away_team, spt_time, percent)
+                    sta_df = sort_by_name_and_time_exact(sta_df_f, spt_home_team, spt_away_team, spt_time, percent)
 
-                    all_df = [acc_df,bcl_df,fst_df,pre_df,sta_df]
+                    all_df = [acc_df,bcl_df,fst_df,frb_df,pre_df,sta_df]
                     new_df = pd.concat(all_df, ignore_index=True)
 
-                    if len(new_df) >=1:
+                    if len(new_df) >=2:
                         frb_time = new_df['TIME'][0]
                         frb_home_team = new_df['HOME TEAM'][0]
                         frb_away_team = new_df['AWAY TEAM'][0]
@@ -194,22 +183,23 @@ async def main():
                         frb_bts_per = round(new_df['BTS'].mean(), 2)
                         frb_ots_per = round(new_df['OTS'].mean(), 2)
 
-                        if len(new_df) ==1:
-                            FA3W_percent = 60 #FORBET ACCEPTED 3WAY PERCENT
-                            FA2W_percent = 70 #FORBET ACCEPTED 2WAY PERCENT
+                        # if len(new_df) == 1:
+                        #     FA3W_percent = 57 #FORBET ACCEPTED 3WAY PERCENT
+                        #     FA2W_percent = 68 #FORBET ACCEPTED 2WAY PERCENT
 
-                        if len(new_df) ==2:
+                        if len(new_df) == 2:
                             FA3W_percent = 57 #FORBET ACCEPTED 3WAY PERCENT
-                            FA2W_percent = 67 #FORBET ACCEPTED 2WAY PERCENT
+                            FA2W_percent = 65 #FORBET ACCEPTED 2WAY PERCENT
 
-                        if len(new_df) >=3:
-                            FA3W_percent = 53 #FORBET ACCEPTED 3WAY PERCENT
+                        if len(new_df) >= 3:
+                            FA3W_percent = 57 #FORBET ACCEPTED 3WAY PERCENT
                             FA2W_percent = 63 #FORBET ACCEPTED 2WAY PERCENT
 
 
-                        print('\n ==================== MATCHED DATA ====================== \n')
-                        print(new_df)
 
+                        print('==================== MATCHED DATA ====================== \n')
+                        print(new_df)
+                        print(f'(H:{frb_home_per}) (D:{frb_draw_per}) A:({frb_away_per}) (OV:{frb_ovr25_per}) (UN:{frb_und25_per}) (BTS:{frb_bts_per}) (OTS:{frb_ots_per})')
 
 
                         # ======================================  1 X 2 OPTIONS  ===============================================
@@ -357,6 +347,7 @@ async def main():
                             except Exception as e:
                                 print(f"Error fetching OTS odd: {e}")
                                     
+  
 
     await browser.close()
 
